@@ -2,7 +2,8 @@
 - 👀 I’m interested in programing。
 - 🌱 I’m currently learning Python、Php、Website building。 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ：
+- E-mail me 
 
 <!---
 ricksteves/ricksteves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
